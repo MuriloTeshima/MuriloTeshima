@@ -1,16 +1,41 @@
-## Hi there 👋
+# Murilo Teshima
 
-<!--
-**MuriloTeshima/MuriloTeshima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer focused on scalable systems, AI applications, cloud infrastructure and modern SaaS platforms.
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Node.js
+- TypeScript
+- React / Next.js
+- Python
+- AWS
+- Docker
+- Terraform
+- PostgreSQL
+- Redis
+- AI / LLM Engineering
+
+## Current Projects
+
+- AI Voice Agent Platform
+- SaaS File Storage Platform
+- Homelab Infrastructure
+- Gym Learning Platform
+
+## Professional Interests
+
+- Distributed Systems
+- Cloud-native Architecture
+- Artificial Intelligence
+- DevOps
+- Real-time Communication
+- SaaS Engineering
+
+## Certifications
+
+- Claude Certified Architect — Foundations
+
+## Contact
+
+- LinkedIn
+- Email
