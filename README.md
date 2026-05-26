@@ -37,5 +37,5 @@ Senior Software Engineer focused on scalable systems, AI applications, cloud inf
 
 ## Contact
 
-- LinkedIn
-- Email
+- [LinkedIn](https://www.linkedin.com/in/muriloteshima/)
+- muriloteshimalira@gmail.com
